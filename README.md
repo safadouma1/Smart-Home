@@ -8,11 +8,7 @@ la **reconnaissance faciale** pour ouvrir la porte. Les deux communiquent par c�
 
 ---
 
-##  Vidéo de démonstration
 
-[![Cliquez pour voir la vidéo](docs/images/miniature_video.jpg)](https://github.com/safadouma1/Smart-Home/raw/main/docs/videos/demo_maquette_reelle.mp4)
-
-▶ **[Voir la vidéo complète](https://github.com/safadouma1/Smart-Home/raw/main/docs/videos/demo_maquette_reelle.mp4)**.
 Chaque étape et chaque capteur sont indiqués à l'écran.
 
 | Temps | Étape | Composants |
